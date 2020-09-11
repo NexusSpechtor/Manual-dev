@@ -9,4 +9,4 @@ description: > # this means to ignore newlines until "baseurl:"
 github_username:  NexusSpechtor
 
 show_excerpts: false 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
